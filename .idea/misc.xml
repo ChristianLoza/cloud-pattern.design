@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="Quarkus" url="file://$PROJECT_DIR$/code-with-quarkus" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/grpc-publish-consumer" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/request-response" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/grpc-publish-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/code-with-quarkus/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
